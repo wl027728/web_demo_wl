@@ -1,0 +1,83 @@
+
+
+2019-08-30 23:24:15,155 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 26
+2020-04-14 15:04:53,278 - [ERROR] - [msg]错误原因是find_element() argument after * must be an iterable, not WebElement - base_page.py - 25
+2020-04-16 10:45:38,643 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 10:26:43,586 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 17:16:11,416 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 17:29:23,990 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-27 14:33:29,984 - [ERROR] - [msg]错误原因是Message: invalid session id
+ - base_page.py - 25
+2020-04-27 14:41:34,337 - [ERROR] - [msg]错误原因是Message: invalid session id
+ - base_page.py - 25
+2020-04-27 14:51:29,062 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 25
+2020-04-27 15:54:34,772 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-27 16:30:41,147 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-28 11:14:15,587 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 26
+2020-05-27 16:50:15,401 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 26
+2020-05-27 17:28:43,363 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 26
+2020-05-29 12:29:01,843 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 26
+2020-05-29 12:31:46,085 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 26
+2020-05-29 12:36:14,833 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 26
+2020-05-29 12:47:39,758 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 26
+2020-05-29 12:53:31,767 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 26
+2020-06-02 16:56:38,444 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 26
+2020-06-24 10:11:09,291 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 27
+2020-06-24 10:21:58,741 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 27
+2020-12-08 16:08:43,599 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
+2020-12-09 16:28:37,097 - [ERROR] - [msg]错误原因是Message: chrome not reachable
+  (Session info: chrome=87.0.4280.88)
+ - base_page.py - 28
+2020-12-09 16:48:53,963 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
+2020-12-11 11:12:06,665 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
+2020-12-11 11:24:19,168 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
+2020-12-16 15:48:31,088 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
+2020-12-16 17:30:07,595 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 31
+2020-12-17 09:51:26,109 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 31
+2020-12-17 10:07:43,716 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.88)
+ - base_page.py - 31
+2020-12-17 10:14:32,567 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 31
+2020-12-18 10:45:52,014 - [ERROR] - [msg]错误原因是Message: no such window: window was already closed
+  (Session info: chrome=87.0.4280.88)
+ - base_page.py - 31
+2020-12-18 13:51:20,001 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 31

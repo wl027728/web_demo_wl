@@ -1,0 +1,27 @@
+2019-09-07 12:40:55,452 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2019-09-09 08:26:41,050 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2019-09-09 08:26:48,434 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.18362 x86_64)
+ - base_page.py - 25
+2019-09-09 08:26:48,543 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.18362 x86_64)
+ - base_page.py - 25
+2019-09-09 08:34:03,138 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.18362 x86_64)
+ - base_page.py - 25
+2019-09-09 10:11:55,333 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2019-09-09 10:15:37,888 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2019-09-09 10:21:00,279 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-03-20 17:23:24,616 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25

@@ -1,0 +1,59 @@
+
+2020-04-26 14:02:04,167 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 14:10:28,459 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 14:20:40,797 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 14:34:12,947 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 14:47:53,815 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 14:53:49,451 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 14:55:42,000 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 25
+2020-04-26 16:45:40,595 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 25
+2020-04-26 17:10:35,266 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 25
+2020-06-24 10:28:03,237 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 27
+2020-06-24 10:37:10,607 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 27
+2020-06-24 10:55:22,182 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 27
+2020-06-24 11:11:08,785 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 27
+2020-06-24 12:19:33,136 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 27
+2020-06-24 15:22:36,873 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 28
+2020-06-24 15:24:16,215 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 28
+2020-06-24 15:44:52,552 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
+2020-06-24 16:21:16,636 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
+2020-06-24 16:44:58,378 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
+2020-08-08 15:52:30,914 - [ERROR] - [msg]错误原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.87)
+ - base_page.py - 28
+2020-12-09 16:11:07,230 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
+2020-12-09 16:16:06,985 - [ERROR] - [msg]错误原因是Message: 
+ - base_page.py - 28
