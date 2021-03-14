@@ -18,19 +18,20 @@ from  pages.home_page import HomePage
 from pages.lian_page import LiAnPage
 
 #browser = webdriver.Chrome()
+@pytest.mark.lian
 class TestLiAn():
     @pytest.mark.parametrize('lian_inform',lian_data)
     def test_lian01(self,lian_inform,init_web):
         browser,loginpage = init_web
         loginpage.login(lian_inform[0],lian_inform[1])
-        BaoAPage(browser).counterreport(lian_inform[2])
-        BaoAPage(browser).casedispatch()
-        #loginpage.logout()
-        loginpage.login(lian_inform[3],lian_inform[1])
-        LiAnPage(browser).enter_LApage()
-        LiAnPage(browser).input_BDlossinfo()
-        LiAnPage(browser).input_LPcostinfo()
-        LiAnPage(browser).commit_lian()
+        # BaoAPage(browser).counterreport(lian_inform[2])
+        # BaoAPage(browser).casedispatch()
+        # #loginpage.logout()
+        # loginpage.login(lian_inform[3],lian_inform[1])
+        # LiAnPage(browser).enter_LApage()
+        # LiAnPage(browser).input_BDlossinfo()
+        # LiAnPage(browser).input_LPcostinfo()
+        # LiAnPage(browser).commit_lian()
 
 
 if __name__ == '__main__':

@@ -22,7 +22,7 @@ from pages.login_page import LoginPage
 from selenium.webdriver.common.action_chains import ActionChains
 from scripts.handle_parameter import HandleParam
 from pages.home_page import HomePage
-from pages.main_process_page import MainProcessPage
+#from pages.main_process_page import MainProcessPage
 from locator.common_locator import CommonL
 class BaoAPage(BasePage):
     input_policyno_locator = (By.ID,'policyNo')

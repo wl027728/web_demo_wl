@@ -25,7 +25,7 @@ from scripts.handle_logging import logger
 from selenium.webdriver.support.select import Select
 from pages.base_page import Element,BasePage
 from scripts.handle_parameter import HandleParam
-from  pages.main_process_page import MainProcessPage
+#from  pages.main_process_page import MainProcessPage
 from locator.common_locator import CommonL
 from pages.danzhengshouji_page import UploadPage
 class CaseQueryPage(BasePage):

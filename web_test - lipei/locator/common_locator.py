@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 
 
 class CommonL():
-   chose_first_locator = (By.CSS_SELECTOR,"#bigAutocompleteContent table tr:nth-child(1) td div")
+    chose_first_locator = (By.CSS_SELECTOR,"#bigAutocompleteContent table tr:nth-child(1) td div")
     caseno_locator = (By.XPATH,"//div[@class='dialog-success-taskNo']/div[2]")#提交成功报案号
     close_risk_locator = (By.CSS_SELECTOR, ".btn.btn-xs.btn-float-box-close")  # 关闭风险提示狂
     task_sign_locator = (By.XPATH,"//span[contains(@class,'pointer registNo_ic_tree')] ")#提交结果页面上的任务流标志

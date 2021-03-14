@@ -6,8 +6,7 @@
 import pytest
 
 if __name__=='__main__':
-    pytest.main(['-s',
-                 '-m login',
+    pytest.main(['-m lian',
                  '-q',
                  '--alluredir',
                  './report'
